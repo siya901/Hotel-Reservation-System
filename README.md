@@ -21,7 +21,6 @@ A desktop-based hotel booking application developed using **Visual Basic** and *
 4. Run and test the app.
 ## Project Screenshots
 ![Login](login.png)
-![Registration](registration.png)
 ![Home](home.png)
 ![Payment](payment.png)
 ![Invoice](invoice.png)
