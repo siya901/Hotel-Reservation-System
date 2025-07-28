@@ -19,4 +19,10 @@ A desktop-based hotel booking application developed using **Visual Basic** and *
 2. Set up the MySQL database (create tables as per code).
 3. Configure database connection (ODBC/connection string).
 4. Run and test the app.
+## Project Screenshots
+![Login](login.png)
+![Registration](registration.png)
+![Home](home.png)
+![Payment](payment.png)
+![Invoice](invoice.png)
 
